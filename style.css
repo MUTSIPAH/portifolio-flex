@@ -178,7 +178,8 @@ body{
 }
 
 .menu-wrap .menu>div{
-  background-color: #dea501;
+  background-color: #0392dc;
+  opacity: 95%;
     width: 200vw;
     height: 200vw;
     overflow: hidden;
@@ -407,6 +408,7 @@ margin: 60px;
   padding-right: 40px;
   padding-left: 66px;
   margin: 0;
+  font-size: 15px;
 }
 .box1 {
   margin: 0;
